@@ -43,7 +43,7 @@ end
 M.highlights = function()
   local C = M.colors()
   local fg = C.base1
-  local bg = 'none'  -- C.base04
+  local bg = C.base04
 
   return {
     standard = {
