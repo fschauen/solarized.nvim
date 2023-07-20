@@ -8,13 +8,13 @@ _Base04_ (`#002028`) and _Base4_ (`#FFFFED`).
 
 ## Why?
 
-Why not? ;)
+Why not? 😉
 
 ## Getting Started
 
 ### Requirements
 
-- Neovim :P
+- Neovim (duh 😛)
 - `vim.opt.termguicolors = true` in your `init.lua`.
 - A terminal with [true color support][truecolor].
 
@@ -52,11 +52,12 @@ None. This is supposed to be simple, remember?
 
 ## Supported Plugins
 
+- [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
+- [lualine](https://github.com/nvim-lualine/lualine.nvim)
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 - [nvim-tree](https://github.com/kyazdani42/nvim-tree.lua)
-- [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
-- [virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim)
-- [vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace)
 - [telescope](https://github.com/nvim-telescope/telescope.nvim)
+- [vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace)
 - [vim-fugitive](https://github.com/tpope/vim-fugitive)
+- [virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim)
 
